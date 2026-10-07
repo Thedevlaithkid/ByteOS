@@ -158,9 +158,9 @@ That is expected.
 
 There is deliberately no text output, graphics, keyboard handling, shell, or user interface.
 
-⚠️ Current status
+✅ Current status
 
-ByteOS is an experimental project, not a general-purpose operating system.
+ByteOS is complete it just does nothing.
 
 The current implementation is intended primarily to explore:
 
